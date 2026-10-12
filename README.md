@@ -19,7 +19,7 @@ Se creó el repositorio en GitHub con el nombre `AI_Project_LAU`. Posteriormente
 ```bash
 git clone https://github.com/nunez-lau/AI_Project_LAU.git
 ```
-![alt text](Capturas/Repo.png)
+![alt text](capturas/repo.png)
 ---
 
 ## 3. Desarrollo del Sistema de Recomendación
@@ -29,7 +29,7 @@ Se estructuró el archivo `recommendation_system.py` aplicando algoritmos avanza
 ### Evidencia de la Asistencia de GitHub Copilot
 Durante la escritura, GitHub Copilot asistió sugiriendo bloques de código lógico y optimizaciones de cálculo vectorial para las desviaciones de notas.
 
-![alt text](Capturas/codigo.png)
+![alt text](capturas/codigo.png)
 
 ## 4. Ejecución y Resultados del Script
 
@@ -39,7 +39,7 @@ Para validar el funcionamiento del sistema, se ejecutó el módulo de pruebas an
 ```bash
 python recommendation_system.py
 ```
-![alt text](Capturas/salida.png)
+![alt text](capturas/salida.png)
 
 ## 5. Conclusiones
 La incorporación de herramientas como GitHub Copilot agiliza el flujo de trabajo del desarrollador. No solo automatiza tareas repetitivas o código boilerplate, sino que actúa como un tutor interactivo que ayuda a estructurar de manera óptima algoritmos matemáticos complejos, elevando la calidad técnica del software producido.
